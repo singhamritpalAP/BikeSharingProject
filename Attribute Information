@@ -1,6 +1,5 @@
 Attribute Information:
-Both hour.csv and day.csv have the following fields, except hr which is not available in
-day.csv
+hour.csv have the following fields
 ❖ instant: record index.
 ❖ dteday : date.
 
